@@ -10,7 +10,7 @@
 | C | Linux system development |
 | Java | Spring Framework |
 | JavaScript | VueJS (Pinia), React (Redux, MobX, Saga), JQuery |
-| Python | Django, Flask |
+| Python | Django, Flask, FastAPI |
 | Golang | Echo |
 | Common | Postresql, RabbitMQ, MongoDB |
 
